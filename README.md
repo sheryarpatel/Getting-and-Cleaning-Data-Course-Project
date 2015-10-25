@@ -23,3 +23,4 @@ The files include:
 
 
 
+To run the script simply download the run_analysis.R script, load it into R Studio and run it. The script does everything automatically including download and unzipping of all files.
